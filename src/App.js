@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <div>Created by Crazy</div>
       </header>
     </div>
   );
